@@ -53,7 +53,7 @@ public class HelloService {
 
 /*
         ss ps1 = new ss();
-        ps1.setName("sas3");
+        ps1.setName("sas3");1231
 
         ss p2 = new ss();
         p2.setName("sas1");
